@@ -1,0 +1,18 @@
+#logo {
+    width: 150px;
+    height: 60px;
+}
+
+.badge {
+    margin-right: 10px;
+}
+
+#pokemon-img {
+    padding-top: 10px;
+    align-self: center;
+    width: 10rem;
+}
+
+.album.py-5.bg-light {
+    background-image: url("img/pokemon-background.jpg");
+}
